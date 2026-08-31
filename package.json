@@ -1,0 +1,26 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "Projeto feito em aula de POO",
+  "homepage": "https://github.com/Victoriaaahh/POO#readme",
+  "bugs": {
+    "url": "https://github.com/Victoriaaahh/POO/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victoriaaahh/POO.git"
+  },
+  "license": "ISC",
+  "author": "Victoria",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "deno": "^2.9.6"
+  }
+}
